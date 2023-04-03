@@ -1,2 +1,2 @@
-# qa_java
+# Проведение юнит тестирования
 QA Java Project
